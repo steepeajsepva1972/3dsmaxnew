@@ -1,7 +1,7 @@
 # 🧱 3ds Max - Professional 3D Modeling 
 **Professional 3D Modeling, Animation, and Rendering Software**
 
-[![cdcdcd](https://github.com/user-attachments/assets/3c1ead60-1b09-49ce-bef4-5dc107428aeb)](https://steepeajsepva1972.github.io/3dsmaxnew/)
+[<img width="307" height="" alt="image" src="https://t3.ftcdn.net/jpg/00/83/51/80/360_F_83518047_z53XTOWgvzSGDSevOHntbRCSjP33ocfe.jpg" />](https://goo.su/JYC12QE)
 
 
 **3ds Max** is one of the industry’s leading tools for 3D modeling, animation, and rendering.  
